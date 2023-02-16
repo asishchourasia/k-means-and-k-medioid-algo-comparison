@@ -1,4 +1,4 @@
-# Comparison_Of_K-Means_And_K-Medioid_Algorithm
+# Comparison of K-Means & K-Medioid Algorithms
 
 *A Java Application For Comparing Two Main Clustering Algorithm ( K-Means &amp; K-Medioid ) In Data Mining Using Davies Bouldin Index.
 
